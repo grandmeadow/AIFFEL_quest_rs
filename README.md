@@ -1,4 +1,6 @@
 ```
+AIFFEL_quest_rs 레포지토리입니다. MainQuest, Exploration, GoingDeeper로 이루어져 있습니다.
+
 AIFFEL_quest_rs
 ├── MainQuest
 │   ├── Quest01
