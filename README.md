@@ -21,7 +21,7 @@ AIFFEL_quest_rs
 .	   .
 .	   .
 .	   .
-    └── Ex07
+    └── Ex11
         ├── .ipynb
         └── README.md
 .
@@ -39,4 +39,4 @@ AIFFEL_quest_rs
         ├── .ipynb
         └── README.md
 
-```
+``` 
