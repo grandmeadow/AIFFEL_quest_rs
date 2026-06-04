@@ -13,3 +13,16 @@ env/
 # OS / editor
 .DS_Store
 .vscode/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.h5
+
+# Training outputs
+checkpoints/
+models/
+runs/
+outputs/
